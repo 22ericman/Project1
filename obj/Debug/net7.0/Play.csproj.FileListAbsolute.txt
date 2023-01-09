@@ -1,0 +1,15 @@
+C:\C#\Play\bin\Debug\net7.0\Play.exe
+C:\C#\Play\bin\Debug\net7.0\Play.deps.json
+C:\C#\Play\bin\Debug\net7.0\Play.runtimeconfig.json
+C:\C#\Play\bin\Debug\net7.0\Play.dll
+C:\C#\Play\bin\Debug\net7.0\Play.pdb
+C:\C#\Play\obj\Debug\net7.0\Play.csproj.AssemblyReference.cache
+C:\C#\Play\obj\Debug\net7.0\Play.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Play\obj\Debug\net7.0\Play.AssemblyInfoInputs.cache
+C:\C#\Play\obj\Debug\net7.0\Play.AssemblyInfo.cs
+C:\C#\Play\obj\Debug\net7.0\Play.csproj.CoreCompileInputs.cache
+C:\C#\Play\obj\Debug\net7.0\Play.dll
+C:\C#\Play\obj\Debug\net7.0\refint\Play.dll
+C:\C#\Play\obj\Debug\net7.0\Play.pdb
+C:\C#\Play\obj\Debug\net7.0\Play.genruntimeconfig.cache
+C:\C#\Play\obj\Debug\net7.0\ref\Play.dll
